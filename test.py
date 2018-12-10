@@ -2,7 +2,7 @@ import sendgrid
 import os
 
 
-api_key = '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'
+api_key = ''
 sg = sendgrid.SendGridAPIClient(apikey= api_key)
 
 data ={
